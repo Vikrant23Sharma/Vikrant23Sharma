@@ -16,9 +16,6 @@ focus on delivering measurable results
 ![](https://nirzak-streak-stats.vercel.app/?user=Vikrant23Sharma&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikrant23Sharma&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vikrant23Sharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Vikrant23Sharma&icon=0&color=0)](https://visitcount.itsvg.in)
 
