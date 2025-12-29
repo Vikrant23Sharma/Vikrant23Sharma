@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Bachelor of Management Studies graduate specialization in Marketing.
 My expertise lies in tools like Power BI, Tableau, Advanced Excel, and SQL,
-where I create interactive dashboards and perform trend analysisI. am skilled
+where I create interactive dashboards and perform trend analysis. I am skilled
 at transforming complex data into actionable insights while maintaining a
 focus on delivering measurable results
 
