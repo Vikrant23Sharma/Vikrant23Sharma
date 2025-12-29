@@ -1,5 +1,9 @@
 # 💫 About Me:
-i am doing data analyst cource and in that after completing the course i am doing project my first project was on bank analysis and the second project which is zomato analysis
+I am a Bachelor of Management Studies graduate specialization in Marketing.
+My expertise lies in tools like Power BI, Tableau, Advanced Excel, and SQL,
+where I create interactive dashboards and perform trend analysisI. am skilled
+at transforming complex data into actionable insights while maintaining a
+focus on delivering measurable results
 
 
 ## 🌐 Socials:
