@@ -1,9 +1,5 @@
 # 💫 About Me:
-I am a Bachelor of Management Studies graduate specialization in Marketing.
-My expertise lies in tools like Power BI, Tableau, Advanced Excel, and SQL,
-where I create interactive dashboards and perform trend analysis. I am skilled
-at transforming complex data into actionable insights while maintaining a
-focus on delivering measurable results
+High-performing Bachelor of Management Studies graduate specialized in Marketing, with a strong technical foundation in Data Analytics. Expert at transforming complex Market Data into Actionable Insights to drive business growth. Proven track record in Data Cleaning, Statistical Analysis, and developing interactive dashboards using SQL, Power BI, and Tableau.
 
 
 ## 🌐 Socials:
