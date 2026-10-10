@@ -61,6 +61,19 @@ I'm a **Bachelor of Management Studies** graduate (Marketing) working as an **MI
 
 ## 📂 Featured Projects
 
+### 📡 IMI: Intraday Market Intelligence
+`Python` `pandas` `SQLite` `Google Sheets` `Telegram API` `Linux / Oracle Cloud`
+
+A self-hosted research system that scans NSE equities and NIFTY options during market hours, journals every trade signal, and measures afterwards whether each one worked and why. Signals-only: it sends alerts and records outcomes, and never places orders.
+
+- **4 signal engines** (Gamma Burst on option OI walls, EMA + VWAP, mean reversion, momentum), each gated by market regime and time of day
+- **Outcome resolver** replays every signal on 1-minute data to label it WIN / LOSS / EOD and record max favourable and adverse excursion (MFE / MAE)
+- **Per-setup scorecard** (win %, profit factor, expectancy) in Google Sheets, live Telegram alerts, and a weekly post-mortem
+- **Runs on a free-tier 1 GB cloud VM** using systemd services, cron jobs, and a shared API rate limiter
+- **What the data showed:** winning option trades often dipped 12–25% before hitting target, so the trailing stop was cutting winners. Now daily price paths are captured so exit rules can be tested on real data.
+
+> 🤖 Built with an AI coding assistant.
+
 ### 🏦 [Banking & Transaction Performance Analytics](https://github.com/Vikrant23Sharma/Banking_Data_Analysis)
 `Excel` `Power BI` `Tableau` `MySQL`
 
