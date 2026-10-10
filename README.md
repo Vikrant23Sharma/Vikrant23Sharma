@@ -75,11 +75,6 @@ I'm a **Bachelor of Management Studies** graduate (Marketing) working as an **MI
 - Used MySQL window functions (`DENSE_RANK`, `LAG`) to rank restaurants and compute monthly growth
 - **Key findings:** India has the most restaurants, yet only **~26% offer online delivery**; restaurants with table booking average **3.9/5 vs 3.7/5**
 
-### 📈 Crowdfunding Analysis *(Capstone, ExcelR)*
-`Excel` `Power BI` `Tableau` `SQL`
-
-- Identified the key factors behind campaign success using data cleaning, visualization, and forecasting
-
 ---
 
 ## 💼 Experience
@@ -88,8 +83,6 @@ I'm a **Bachelor of Management Studies** graduate (Marketing) working as an **MI
 |---|---|---|
 | **MIS Analyst** | Bachoomal Sons, Agra | Feb 2026 – Present |
 | **Data Analyst Intern** | ExcelR / AI Variant | Jul 2025 – Jan 2026 |
-| **Finance Intern** | Team Work Finance Solution | Dec 2025 |
-| **Finance Intern** | ADS Media | Jul 2023 – Aug 2023 |
 
 ---
 
