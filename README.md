@@ -72,7 +72,7 @@ A self-hosted research system that scans NSE equities and NIFTY options during m
 - **Runs on a free-tier 1 GB cloud VM** using systemd services, cron jobs, and a shared API rate limiter
 - **What the data showed:** winning option trades often dipped 12–25% before hitting target, so the trailing stop was cutting winners. Now daily price paths are captured so exit rules can be tested on real data.
 
-> 🤖 Built with an AI coding assistant.
+<sub>Built with an AI coding assistant.</sub>
 
 ### 🏦 [Banking & Transaction Performance Analytics](https://github.com/Vikrant23Sharma/Banking_Data_Analysis)
 `Excel` `Power BI` `Tableau` `MySQL`
