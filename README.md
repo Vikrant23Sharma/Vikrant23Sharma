@@ -73,8 +73,6 @@ A self-hosted research system for NSE equities, the NIFTY index and NIFTY option
 - **Runs on a free-tier 1 GB cloud VM** using systemd services, cron jobs and a shared API rate limiter
 - **What the data showed:** winning option trades often dipped 12–25% before hitting target, so the trailing stop was cutting winners. Three underperforming engines were retired on the evidence
 
-**[→ View the repository](https://github.com/Vikrant23Sharma/IMI-Research)**
-
 <sub>Built with an AI coding assistant.</sub>
 
 ### 🏦 [Banking & Transaction Performance Analytics](https://github.com/Vikrant23Sharma/Banking_Data_Analysis)
