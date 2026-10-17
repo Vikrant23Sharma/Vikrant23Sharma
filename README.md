@@ -122,8 +122,7 @@ A self-hosted research system that scans NSE equities and NIFTY options during m
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vikrant23Sharma&label=Profile%20views&color=2C5364&style=flat" alt="Profile views" />
-</p>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Vikrant23Sharma&icon=0&color=0" alt="Visits" /></a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" alt="" />
