@@ -61,16 +61,19 @@ I'm a **Bachelor of Management Studies** graduate (Marketing) working as an **MI
 
 ## 📂 Featured Projects
 
-### 📡 IMI: Intraday Market Intelligence
+### 📡 [IMI: Intraday Market Intelligence](https://github.com/Vikrant23Sharma/IMI-Research)
+
 `Python` `pandas` `SQLite` `Google Sheets` `Telegram API` `Linux / Oracle Cloud`
 
-A self-hosted research system that scans NSE equities and NIFTY options during market hours, journals every trade signal, and measures afterwards whether each one worked and why. Signals-only: it sends alerts and records outcomes, and never places orders.
+A self-hosted research system for NSE equities, the NIFTY index and NIFTY options. It journals every trade signal and measures afterwards whether each one worked and why. Signals-only: it sends alerts and records outcomes, and never places orders.
 
-- **4 signal engines** (Gamma Burst on option OI walls, EMA + VWAP, mean reversion, momentum), each gated by market regime and time of day
+- **Live:** Gamma Burst (NIFTY option OI walls, regime and time gated) and an EMA 20/50 index trend filter with a paper portfolio tracked against holding NIFTY
 - **Outcome resolver** replays every signal on 1-minute data to label it WIN / LOSS / EOD and record max favourable and adverse excursion (MFE / MAE)
-- **Per-setup scorecard** (win %, profit factor, expectancy) in Google Sheets, live Telegram alerts, and a weekly post-mortem
-- **Runs on a free-tier 1 GB cloud VM** using systemd services, cron jobs, and a shared API rate limiter
-- **What the data showed:** winning option trades often dipped 12–25% before hitting target, so the trailing stop was cutting winners. Now daily price paths are captured so exit rules can be tested on real data.
+- **Strict backtesting protocol:** development period and one-time holdout fixed in advance, week-clustered t-stats, realistic costs, survivorship-free data. 8 ideas tested, none passed, none deployed
+- **Runs on a free-tier 1 GB cloud VM** using systemd services, cron jobs and a shared API rate limiter
+- **What the data showed:** winning option trades often dipped 12–25% before hitting target, so the trailing stop was cutting winners. Three underperforming engines were retired on the evidence
+
+**[→ View the repository](https://github.com/Vikrant23Sharma/IMI-Research)**
 
 <sub>Built with an AI coding assistant.</sub>
 
